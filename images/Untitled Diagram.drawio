@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2024-06-20T04:03:30.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.5.5" etag="uxVRrNjtMoV5iwCY_Rh4" type="github">
+  <diagram name="Page-1" id="BkI2_HsFe4LU6YsKTmCN">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="You" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="36" width="482" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Build Custom GPT" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="71" y="25" width="143" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Create GPT Documentation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="25" width="210" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Custom GPT System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry y="153" width="469" height="393" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="GPT Builder Tool" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="178" width="134" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Custom GPT Model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="487" width="149" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="GPT Documentation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="129" y="281" width="158" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Utilize Documentation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="384" width="176" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Utilizes" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=0;entryX=0.34;entryY=1;" edge="1" parent="1" source="7" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="78" y="453" />
+              <mxPoint x="78" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Generates" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="6" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Enhances" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.64;entryY=0;" edge="1" parent="1" source="9" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="321" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Read and Implemented" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Uses" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Utilized by" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.61;entryY=0;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
